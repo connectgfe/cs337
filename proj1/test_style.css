@@ -14,12 +14,14 @@ h4,h5 {
     text-decoration: underline;
 }
 body {
+     margin: 100px;
 /*   background-color: lightblue; */
 }
 p {
     font-size: 11pt;
     color: rbg(64,64,64);
     font-family: Georgia, serif;
+    padding-left: 200px;
 }
 
 
